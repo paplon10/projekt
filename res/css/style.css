@@ -1,4 +1,6 @@
-body{
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
+body {
   background-image: url(../img/background.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
@@ -7,15 +9,15 @@ body{
   max-width: 200px;
   width: 100%;
 }
-#cookie:hover{
+#cookie:hover {
   transform: scale(1.1);
 }
-#counter{
+#counter {
   text-align: center;
   font-size: 150%;
   color: white;
 }
-.stred{
+.stred {
   max-width: 150px;
   margin-left: auto;
   margin-right: auto;
