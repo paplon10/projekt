@@ -1,0 +1,23 @@
+body{
+  background-image: url(../img/background.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+#cookie {
+  max-width: 200px;
+  width: 100%;
+}
+#cookie:hover{
+  transform: scale(1.1);
+}
+#counter{
+  text-align: center;
+  font-size: 150%;
+  color: white;
+}
+.stred{
+  max-width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+}
