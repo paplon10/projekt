@@ -13,7 +13,7 @@ const gclick =document.getElementById("gainedclick")
 const gringw =document.getElementById("gainringw")
 const gring =document.getElementById("gainring")
 
-let numberOfCookies = 100000;
+let numberOfCookies = 0;
 
 let cookieInceaseNumber = 1;
 let clickupgradeprize = 20;
